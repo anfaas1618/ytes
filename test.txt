@@ -1,0 +1,42 @@
+1 BG ReelWindow ==> Win 1: 5040 
+AA	WD	HH	DD	EE		WD	WD	HH	DD	EE	
+BB	EE	II	CC	DD		WD	EE	II	CC	DD	
+KK	II	WD	SC	GG		KK	II	WD	SC	GG	
+GG	HH	SC	KK	GG		GG	HH	SC	KK	GG	
+HH	FF	CC	DD	HH		HH	FF	CC	DD	HH	
+====================================================================================================
+2 BG ReelWindow ==> Win 1: 0 
+II	JJ	SC	WD	CC		II	JJ	SC	WD	CC	
+DD	KK	DD	GG	GG		DD	KK	DD	GG	GG	
+II	BB	KK	II	EE		II	BB	KK	II	EE	
+II	AA	EE	FF	KK		II	AA	EE	FF	KK	
+BB	AA	AA	JJ	CC		BB	AA	AA	JJ	CC	
+====================================================================================================
+3 BG ReelWindow ==> Win 1: 0 
+DD	AA	JJ	EE	BB		DD	AA	JJ	EE	BB	
+DD	AA	JJ	KK	BB		DD	AA	JJ	KK	BB	
+HH	GG	JJ	KK	BB		HH	GG	JJ	KK	BB	
+HH	GG	DD	KK	FF		HH	GG	DD	KK	FF	
+HH	GG	DD	KK	FF		HH	GG	DD	KK	FF	
+====================================================================================================
+4 BG ReelWindow ==> Win 1: 0 
+HH	EE	BB	KK	JJ		HH	EE	BB	KK	JJ	
+HH	EE	BB	GG	JJ		HH	EE	BB	GG	JJ	
+II	CC	FF	GG	JJ		II	CC	FF	GG	JJ	
+II	CC	FF	GG	FF		II	CC	FF	GG	FF	
+II	CC	FF	GG	FF		II	CC	FF	GG	FF	
+====================================================================================================
+5 BG ReelWindow ==> Win 1: 0 
+CC	II	JJ	HH	KK		CC	II	JJ	HH	KK	
+JJ	FF	CC	EE	FF		JJ	FF	CC	EE	FF	
+GG	DD	FF	EE	BB		GG	DD	FF	EE	BB	
+CC	FF	KK	HH	KK		CC	FF	KK	HH	KK	
+KK	HH	FF	HH	DD		KK	HH	FF	HH	DD	
+====================================================================================================
+6 BG ReelWindow ==> Win 1: 280 
+BB	AA	JJ	CC	HH		BB	AA	JJ	CC	HH	
+JJ	EE	JJ	CC	BB		JJ	EE	JJ	CC	BB	
+JJ	EE	JJ	AA	BB		JJ	EE	JJ	AA	BB	
+JJ	EE	DD	AA	BB		JJ	EE	DD	AA	BB	
+GG	JJ	DD	AA	FF		GG	JJ	DD	AA	FF	
+====================================================================================================
